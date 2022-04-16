@@ -1,0 +1,8 @@
+path: /media/peter/2TB/julien/mlproject/great-barrier-reef/datasets  # dataset root dir
+train: images/  # train images (relative to 'path') 128 images
+val: images/  # val images (relative to 'path') 128 images
+test: # test images (optional)
+
+# Classes
+nc: 1  # number of classes
+names: ['starfish']  # class names
